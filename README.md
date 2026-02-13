@@ -17,8 +17,6 @@ We train and evaluate the model and compare it with other architectures (Multila
 <img src="images/expert.png" alt="Attention Maps" width="600"/>
 <img src="images/AttentionMaps.png" alt="Attention Maps" width="600"/>
 
-## Code
-
 ## Cite 
 Please cite our work if you found it useful
 @article{genovese2025mixtureofexpertsgraphtransformersinterpretable,
