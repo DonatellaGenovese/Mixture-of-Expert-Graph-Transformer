@@ -19,15 +19,15 @@ We train and evaluate the model and compare it with other architectures (Multila
 
 ## Cite 
 
-Please cite our work if you found it useful \\
-@article{genovese2025mixtureofexpertsgraphtransformersinterpretable,
-  title     = {Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection},
-  author    = {Donatella Genovese and Alessandro Sgroi and Alessio Devoto and Samuel Valentine and Lennox Wood and Cristiano Sebastiani and Stefano Giagu and Monica D'Onofrio and Simone Scardapane},
-  journal   = {Scientific Reports},
-  year      = {2025},
-  volume    = {15},
-  number    = {},
-  pages     = {12003},
-  doi       = {10.1038/s41598-025-12003-9},
-  url       = {https://www.nature.com/articles/s41598-025-12003-9}
+Please cite our work if you found it useful 
+
+@article{genovese2025,
+author = {Genovese, Donatella and Sgroi, Alessandro and Devoto, Alessio and Valentine, Samuel and Wood, Lennox and Sebastiani, Cristiano and Scardapane, Simone and D'Onofrio, Monica and Giagu, Stefano},
+year = {2025},
+month = {07},
+pages = {},
+title = {Mixture-of-experts graph transformers for interpretable particle collision detection},
+volume = {15},
+journal = {Scientific Reports},
+doi = {10.1038/s41598-025-12003-9}
 }
