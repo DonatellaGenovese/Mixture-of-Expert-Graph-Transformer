@@ -18,7 +18,8 @@ We train and evaluate the model and compare it with other architectures (Multila
 <img src="images/AttentionMaps.png" alt="Attention Maps" width="600"/>
 
 ## Cite 
-Please cite our work if you found it useful
+
+Please cite our work if you found it useful \\
 @article{genovese2025mixtureofexpertsgraphtransformersinterpretable,
   title     = {Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection},
   author    = {Donatella Genovese and Alessandro Sgroi and Alessio Devoto and Samuel Valentine and Lennox Wood and Cristiano Sebastiani and Stefano Giagu and Monica D'Onofrio and Simone Scardapane},
